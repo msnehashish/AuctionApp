@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AuctionAI/FileContentIndex/5badfff1-f45e-4afb-a80e-4878479e3b78.vsidx
+*.vsidx
+/.vs/AuctionAI/v17
