@@ -5,3 +5,16 @@
 /.vs/AuctionAI/FileContentIndex/5badfff1-f45e-4afb-a80e-4878479e3b78.vsidx
 *.vsidx
 /.vs/AuctionAI/v17
+/.obj/
+/src/AuctionService/obj/Debug/net8.0
+/.vs
+/src/AuctionService/bin/Debug/net8.0/AuctionService.dll
+/src/AuctionService/bin/Debug/net8.0/AuctionService.exe
+/src/AuctionService/bin/Debug/net8.0/AuctionService.pdb
+/src/AuctionService/obj/Debug/net8.0/ref/AuctionService.dll
+/src/AuctionService/obj/Debug/net8.0/refint/AuctionService.dll
+/src/AuctionService/obj/Debug/net8.0/apphost.exe
+/src/AuctionService/obj/Debug/net8.0/AuctionService.csproj.CoreCompileInputs.cache
+/src/AuctionService/obj/Debug/net8.0/AuctionService.csproj.FileListAbsolute.txt
+/src/AuctionService/obj/Debug/net8.0/AuctionService.dll
+/src/AuctionService/obj/Debug/net8.0/AuctionService.pdb
