@@ -13,5 +13,6 @@ public class MappingProfiles : Profile
         CreateMap<Item, AuctionDto>();
         CreateMap<CreateAuctionDto, Auction>()
             .ForMember(o=>o.Item, o => o.MapFrom(s=>s));
+        CreateMap<CreateAuctionDto, Item>();
     }
 }
